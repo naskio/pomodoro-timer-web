@@ -41,7 +41,7 @@ class Component extends React.PureComponent {
     }
 
     render() {
-        const {style, onValueChange} = this.props;
+        const {onValueChange} = this.props;
         const {value} = this.state;
         return (<div className="d-flex flex-row align-items-center justify-content-center">
                 <Button
@@ -78,13 +78,11 @@ class Component extends React.PureComponent {
 Component.propTypes = {
     onValueChange: PropTypes.func,
     value: PropTypes.number,
-    style: PropTypes.any,
 };
 
 Component.defaultProps = {
     onValueChange: (newV) => console.log(newV),
     value: 0,
-    style: {},
 };
 
 export default Component;
