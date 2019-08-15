@@ -1,18 +1,32 @@
 import React from 'react';
 import styled from 'styled-components';
+import theme from "../../styles/theme";
 
-const Div = styled.div`
+const Footer = styled.footer`
     font-size: 1.2em;
     text-align: center;
-    color: palevioletred;
+    color: ${theme.COLORS.TEXT};
+    font-weight: 500;
+`;
+
+const Link = styled.a`
+  color: ${theme.COLORS.PRIMARY};
 `;
 
 export default class View extends React.PureComponent {
     render() {
         return (
-            <Div>
-                By Mehdi Nassim KHODJA
-            </Div>
+            <Footer>
+                {'By '}
+                <Link
+                    className="d-inline"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                    href="https://linkedin.com/in/khodjamehdinassim/"
+                >
+                    Mehdi Nassim KHODJA
+                </Link>
+            </Footer>
         );
     }
 }
