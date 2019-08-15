@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/pomodoro-timer-web/static/css/main.2cce8147.chunk.css",
-    "main.js": "/pomodoro-timer-web/static/js/main.e733081c.chunk.js",
-    "main.js.map": "/pomodoro-timer-web/static/js/main.e733081c.chunk.js.map",
+    "main.css": "/pomodoro-timer-web/static/css/main.fea43a05.chunk.css",
+    "main.js": "/pomodoro-timer-web/static/js/main.356cba70.chunk.js",
+    "main.js.map": "/pomodoro-timer-web/static/js/main.356cba70.chunk.js.map",
     "runtime~main.js": "/pomodoro-timer-web/static/js/runtime~main.0849b357.js",
     "runtime~main.js.map": "/pomodoro-timer-web/static/js/runtime~main.0849b357.js.map",
-    "static/js/2.a006d0d2.chunk.js": "/pomodoro-timer-web/static/js/2.a006d0d2.chunk.js",
-    "static/js/2.a006d0d2.chunk.js.map": "/pomodoro-timer-web/static/js/2.a006d0d2.chunk.js.map",
+    "static/css/2.266e55a5.chunk.css": "/pomodoro-timer-web/static/css/2.266e55a5.chunk.css",
+    "static/js/2.d43b5b5f.chunk.js": "/pomodoro-timer-web/static/js/2.d43b5b5f.chunk.js",
+    "static/js/2.d43b5b5f.chunk.js.map": "/pomodoro-timer-web/static/js/2.d43b5b5f.chunk.js.map",
     "index.html": "/pomodoro-timer-web/index.html",
-    "precache-manifest.7286dafc5a79158cd07c2d0ad785e96c.js": "/pomodoro-timer-web/precache-manifest.7286dafc5a79158cd07c2d0ad785e96c.js",
+    "precache-manifest.dedd60f767d040ad81e9508326d0b48e.js": "/pomodoro-timer-web/precache-manifest.dedd60f767d040ad81e9508326d0b48e.js",
     "service-worker.js": "/pomodoro-timer-web/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/pomodoro-timer-web/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/pomodoro-timer-web/static/media/logo.5d5d9eef.svg"
+    "static/css/2.266e55a5.chunk.css.map": "/pomodoro-timer-web/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.fea43a05.chunk.css.map": "/pomodoro-timer-web/static/css/main.fea43a05.chunk.css.map",
+    "static/media/ background-large.png": "/pomodoro-timer-web/static/media/ background-large.83e4c60b.png",
+    "static/media/background.png": "/pomodoro-timer-web/static/media/background.fac7cb6d.png"
   }
 }
