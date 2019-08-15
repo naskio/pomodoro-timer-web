@@ -4,12 +4,14 @@ import theme from "../../styles/theme";
 import styled from 'styled-components';
 
 const Input = styled.input`
-    padding: 16px 24px 16px 24px ;
     align-self: stretch;
     border-width: 2px;
     border-color: ${theme.COLORS.TEXT};
     border-radius: 16px;
-    //height: 6rem;
+    :focus {
+      outline: none !important;
+      box-shadow: 0 0 0.2rem ${theme.COLORS.ICONS};
+    }
 `;
 
 class Component extends React.PureComponent {
