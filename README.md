@@ -1,4 +1,4 @@
-# pomodoro-timer-mobile
+# pomodoro-timer-web
 "Pomodoro Timer" is a tool that uses the pomodoro technique "a time management technique" to help you managing your time better.
 
 # Logo
